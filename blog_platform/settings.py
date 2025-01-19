@@ -32,11 +32,11 @@ DATABASES = {
 
         "ENGINE": "django.db.backends.mysql",
 
-        "NAME": "blogs_management_database",
+        "NAME": "",
 
-        "USER": "cattle",
+        "USER": "",
 
-        "PASSWORD": "Gh@43698271",
+        "PASSWORD": "",
 
         "HOST": "localhost",
 
